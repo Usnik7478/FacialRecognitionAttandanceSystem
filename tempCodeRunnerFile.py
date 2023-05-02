@@ -1,0 +1,2 @@
+
+modePathList = os.listdir(folderModePath)
